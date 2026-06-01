@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #be1bb0;
+  background-color: #d383d6;
   color: white;
   padding: 30px;
   text-align: center;
@@ -22,7 +22,7 @@ section {
   background-color: white;
   margin-bottom: 20px;
   padding: 20px;
-  border-left: 5px solid #C2185B;
+  border-left: 5px solid #d383d6;
   border-radius: 8px;
 }
 
@@ -32,20 +32,70 @@ h2 {
 }
 
 button {
-  background-color: #25cbcb;
-  color: white;
-  border: none;
+  background-color: #d383d6;
+  color: rgb(16, 15, 15);
+  border: 2pxsolid black;
   padding: 12px 18px;
   border-radius: 6px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #ca2ab4;
+  background-color: #c1ebf0;
 }
 
 footer {
   text-align: center;
   padding: 15px;
   background-color: #eee;
+}
+
+.seccion-candidatos {
+  background-color: rgb(238, 230, 230);
+  padding: 25px;
+  border-radius: 12px;
+  margin-top: 25px;
+}
+
+.contenedor-candidatos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 18px;
+  margin-top: 20px;
+}
+
+.tarjeta-candidato {
+  border: 1px solid #ddd;
+  border-left: 5px solid #d383d6;
+  border-radius: 10px;
+  padding: 18px;
+  background-color: #fff;
+}
+
+.tarjeta-candidato h3 {
+  color: #d383d6;
+  margin-top: 0;
+}
+
+.tarjeta-candidato button {
+  margin-top: 10px;
+  background-color: #d383d6;
+  color: rgb(15, 15, 15);
+  border: 2px solid black;
+  padding: 10px 14px;
+  border-radius: 8px; 
+  cursor: pointer;
+}
+
+.tarjeta-candidato button:hover {
+  background-color: #c1ebf0;
+}
+
+.detalle-perfil {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #F9EEF3;
+  border-left: 5px solid #d383d6;
+  border-radius: 8px;
+
 }
