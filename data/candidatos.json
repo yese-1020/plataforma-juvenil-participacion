@@ -33,5 +33,12 @@
     "rol": "t",
     "propuesta": "t",
     "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780515230932,
+    "nombre": "yese1",
+    "rol": "operadora de datos",
+    "propuesta": "prueba clase 32",
+    "estado": "Perfil de práctica académica"
   }
 ]
