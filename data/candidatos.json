@@ -5,5 +5,33 @@
     "rol": "yy",
     "propuesta": "yy",
     "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780432184283,
+    "nombre": "t",
+    "rol": "t",
+    "propuesta": "t",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780432606118,
+    "nombre": "u",
+    "rol": "u",
+    "propuesta": "u",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780432992866,
+    "nombre": "5",
+    "rol": "5",
+    "propuesta": "5",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780434688350,
+    "nombre": "prueba 1",
+    "rol": "t",
+    "propuesta": "t",
+    "estado": "Perfil de práctica académica"
   }
 ]
